@@ -70,10 +70,10 @@ Functionalities Provided of Styleup Online Fashion Website-
 
 ## 🔗 Getting Started
 
-1. Clone the repository: `https://github.com/srideepgit/Style-Up-E-commerce-Website.git`
+1. Clone the repository: `https://github.com/Justabcd404/Style-Up-E-commerce-Website.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
 ## 🙏 Support
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
-Email - srideeppersonal@gmail.com
+Email - raushanks420@gmail.com
