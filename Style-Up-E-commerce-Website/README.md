@@ -74,6 +74,5 @@ Functionalities Provided of Styleup Online Fashion Website-
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
-## 🙏 Support
-This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
+
 Email - raushanks420@gmail.com
